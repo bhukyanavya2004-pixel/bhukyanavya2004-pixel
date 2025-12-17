@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Navya 👋
 
-<!--
-**bhukyanavya2004-pixel/bhukyanavya2004-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about building creative solutions. I am constantly learning and exploring new technologies to solve real-world problems.
 
-Here are some ideas to get you started:
+### 🚀 Skills and Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 **Web Development:** HTML, CSS, JavaScript, React
+* 🐍 **Languages:** Python, Java, C++
+* 📱 **App Development:** Flutter, React Native
+* 🎨 **Design:** UI/UX Design
+* ☁️ **Tools:** Git, GitHub, VS Code
+
+### 📊 My GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bhukyanavya2004-pixel&show_icons=true&theme=radical" alt="Navya's Stats" />
+</div>
+
+### 🛠️ Connect with Me
+
+[Add your LinkedIn Link Here] • [Add your Portfolio Link Here]
