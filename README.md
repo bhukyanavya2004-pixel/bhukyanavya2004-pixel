@@ -1,14 +1,10 @@
 # Navya Sree Bhukya
 
-> **Software Developer**
->
-> 📍 *IIT Kharagpur*
-
 <br>
 
 ### ⌘ About
 
-I am a developer focused on **Front-End Engineering** and **UI Optimization**. I enjoy building software that feels seamless and looks clean. My work combines algorithmic logic with design precision.
+> I am a developer focused on **Front-End Engineering** and **UI Optimization**. I enjoy building software that feels seamless and looks clean. My work combines algorithmic logic with design precision.
 
 <br>
 
@@ -22,8 +18,3 @@ I am a developer focused on **Front-End Engineering** and **UI Optimization**. I
 | **Tools** | Git, VS Code |
 
 <br>
-
-
-
-
-  
