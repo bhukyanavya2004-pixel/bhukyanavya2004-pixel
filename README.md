@@ -1,4 +1,3 @@
-
 # Navya Sree Bhukya
 
 > **Software Developer** & **Undergraduate at IIT Kharagpur**
@@ -50,6 +49,7 @@ I am a developer focused on **Front-End Engineering** and **UI Optimization**. I
 <br>
 
 [LinkedIn](https://www.linkedin.com/in/navya-sree-bhukya-b7245632b) • [Email](mailto:bhukyanavya2004@gmail.com)
+
 
 
 
