@@ -44,15 +44,6 @@
 
   ---
 
-  ### 📊 GitHub Analytics
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bhukyanavya2004-pixel&show_icons=true&theme=radical&hide_border=true" alt="Navya's Stats" height="160" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhukyanavya2004-pixel&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160" />
-  </p>
-
-  ---
-
   ### 🤝 Let's Connect
 
   <a href="https://www.linkedin.com/in/navya-sree-bhukya-b7245632b">
@@ -66,5 +57,4 @@
   </a>
 
 </div>
-  
   
